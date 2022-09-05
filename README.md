@@ -3,7 +3,11 @@
 
 
 
-<img style="float:center;"  src="https://github.com/maishahoq/Intro-to-IM/blob/main/Assignment/GameDevelopment/Gallery/275042261_728017601908557_3536086805784017991_n.jpg" alt="Inspiration" width="500"  />
+<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.18.57%20AM.png" alt="Inspiration" width="500" />
+
+<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.19.56%20AM.png" alt="Inspiration" width="500" />
+
+
 
 Video Illustration of Our Project on YouTube Being Used from An iPhone: [Screenrecording Real-life Usage from iPhone](https://www.youtube.com/watch?v=HAwLu8tpFDQ)
 
