@@ -3,9 +3,9 @@
 
 
 
-<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.18.57%20AM.png" alt="Inspiration" width="500" />
+<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.18.57%20AM.png" alt="Inspiration" width="300" />
 
-<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.19.56%20AM.png" alt="Inspiration" width="500" />
+<img style="float:center;"  src="https://github.com/maishahoq/Redesign-Goodreads/blob/main/Screen%20Shot%202022-09-05%20at%2010.19.56%20AM.png" alt="Inspiration" width="300" />
 
 
 
